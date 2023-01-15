@@ -1,6 +1,6 @@
 package main;
 
-import main.util.SleepHelper;
+import util.SleepHelper;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Lock;

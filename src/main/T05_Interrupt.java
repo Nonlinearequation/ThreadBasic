@@ -1,6 +1,6 @@
 package main;
 
-import main.util.SleepHelper;
+import util.SleepHelper;
 
 /**
  * 线程设置标志位interrupt 和是否设置线程标志位isInterrupted
