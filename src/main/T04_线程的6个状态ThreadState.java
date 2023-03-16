@@ -7,7 +7,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.LockSupport;
 import java.util.concurrent.locks.ReentrantLock;
 
-public class T04_ThreadState {
+public class T04_线程的6个状态ThreadState {
 
     public static void main(String[] args) throws InterruptedException {
         System.out.println(">===new和runnable状态========================================================");

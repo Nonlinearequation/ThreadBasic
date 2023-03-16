@@ -10,7 +10,7 @@ import static java.util.concurrent.Executors.*;
  *            方法3：实现Callable接口
  *            方法4：使用线程池ExecutorService创建线程
  */
-public class T01_Thread {
+public class T01_创建线程的方法Thread {
 
     //方法1：继承Thread类
     static class MyThread extends Thread{
